@@ -120,7 +120,7 @@ st.markdown('''
 ''')
 
 txt('**Research Assistant**, Advanced Power Electronics Lab, York University, Toronto, Canada',
-'2016-2028')
+'2016-2018')
 st.markdown('''
 - Designed and implemented oscilloscope data logging tool using Raspberry with Python, which collects circuits’ electrical measurements and waveforms. The logging tool saves hours of data entry and validation, improves experiments efficiency and enables researchers designing more configurations.
 - Designed and implemented components searching and inventory web application using SQL, HTML, and CSS, to improve research prototype efficiency and workflow, saving hours of components searching time and weeks of restocking time.
