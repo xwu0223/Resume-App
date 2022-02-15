@@ -108,7 +108,7 @@ txt('**Analytics Consultant** (Student Project), Client- Interac Corp., Toronto,
 st.markdown('''
 - Designed project roadmap by understanding project scope, deliverable, and assigning task responsibilities, to keep Client and team members updated on the project objective, progress, and roadblocks. 
 - Developed case study to understand customer segmentation by using Tableau to create a dashboard which visualize customer payment diary data, which helped target products to a particular customer group.
-- Utilized multiple linear regression (MLR) and classified user groups with decision tree classifier in Python, to create a model that help in classifying customers into interpretable segments.
+- Utilized XGBoost, HistGradientBoost, and stacked Ensemble models to in Python, to create a model that classifies customers into interpretable segments.
 ''')
 
 txt('**Data Analyst** (Contract), Toronto Transit Commission, Toronto, Canada',
