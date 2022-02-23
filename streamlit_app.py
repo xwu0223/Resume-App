@@ -87,7 +87,7 @@ txt('**Master of Business Analytics** (MBAN), *Schulich School of Business*, Can
 '20021-2022')
 st.markdown('''
 - GPA: `A-`
-- Relevant Courses `Visual Analytics and Modelling, Data Science, Predictive Modelling, Data Management.
+- Relevant Courses Visual Analytics and Modelling, Data Science, Predictive Modelling, Data Management.
 - Received the 1st place in University New Brunswick Data Sprint Competition, and the Finalist in Data Visualization Competition.
 - Lead group of 4 students in Analytics Consulting Project(Client- Interac Corp.) in data governance and classification modelling.
 ''')
@@ -108,7 +108,7 @@ txt('**Analytics Consultant** (Student Project), Client- Interac Corp., Toronto,
 st.markdown('''
 - Designed project roadmap by understanding project scope, deliverable, and assigning task responsibilities, to keep Client and team members updated on the project objective, progress, and roadblocks. 
 - Developed case study to understand customer segmentation by using Tableau to create a dashboard which visualize customer payment diary data, which helped target products to a particular customer group.
-- Utilized XGBoost, HistGradientBoost, and stacked Ensemble models to in Python, to create a model that classifies customers into interpretable segments.
+- Utilized XGBoost, HistGradientBoost, and stacked Ensemble models to in Python, to create a model that classifies customers into interpretable segments using SHAP, and make actionable recommendations.
 ''')
 
 txt('**Data Analyst** (Contract), Toronto Transit Commission, Toronto, Canada',
