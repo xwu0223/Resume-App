@@ -15,7 +15,7 @@ st.image(image, width=200)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Data Analyst/ Scientist with 3 of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
+- Experienced Data Analyst/ Scientist with 3 years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
 - Strong verbal and written communication skills as demonstrated by extensive participation as presenter at multiple business data competitions and prject deliveries.
 - Strong programming and analytical skills as demonstrated by prior professional and project experience
 ''')
